@@ -1,0 +1,12 @@
+http://localhost:3000/movies
+####
+
+http://localhost:3000/movies/46
+Content-Type: application/json
+
+####
+http://localhost:3000/directors
+
+######
+
+http://localhost:3000/directors/6/movies
